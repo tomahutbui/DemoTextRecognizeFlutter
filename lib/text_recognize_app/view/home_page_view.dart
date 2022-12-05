@@ -16,11 +16,12 @@ class HomePageView extends StatelessWidget{
       body: Column(
         children: [
           Expanded(
-            child: BlocBuilder<HomePageCubit, String>(
+            child: BlocBuilder<HomePageCubit, Uint8List?>(
               builder: (context, state) {
-                return state.isEmpty ?
+                print('state is $state');
+                return state == null || state.isEmpty ?
                 const Center(child: Text('Nothing show here'),) :
-                Image.file(File(state));
+                Image.memory(state);
               },
             ),
           ),
