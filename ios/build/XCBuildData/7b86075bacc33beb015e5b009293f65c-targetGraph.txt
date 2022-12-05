@@ -1,0 +1,69 @@
+Target dependency graph (20 targets)
+Flutter in Pods, no dependencies
+GTMSessionFetcher in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+GoogleToolboxForMac in Pods, no dependencies
+GoogleUtilitiesComponents in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+Protobuf in Pods, no dependencies
+MLKitCommon in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleToolboxForMac in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GoogleUtilitiesComponents in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Protobuf in Pods (explicit)
+MLKitTextRecognition-LatinOCRResources in Pods, no dependencies
+MLImage in Pods, no dependencies
+MLKitVision in Pods, depends on:
+GoogleToolboxForMac in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+MLImage in Pods (explicit)
+MLKitCommon in Pods (explicit)
+Protobuf in Pods (explicit)
+MLKitTextRecognitionCommon in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitTextRecognition in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitTextRecognition-LatinOCRResources in Pods (explicit)
+MLKitTextRecognitionCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+GoogleMLKit in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitTextRecognition in Pods (explicit)
+google_mlkit_commons in Pods, depends on:
+Flutter in Pods (explicit)
+MLKitVision in Pods (explicit)
+google_mlkit_text_recognition in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleMLKit in Pods (explicit)
+google_mlkit_commons in Pods (explicit)
+image_picker in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleMLKit in Pods (explicit)
+GoogleToolboxForMac in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GoogleUtilitiesComponents in Pods (explicit)
+MLImage in Pods (explicit)
+MLKitCommon in Pods (explicit)
+MLKitTextRecognition in Pods (explicit)
+MLKitTextRecognitionCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+PromisesObjC in Pods (explicit)
+Protobuf in Pods (explicit)
+google_mlkit_commons in Pods (explicit)
+google_mlkit_text_recognition in Pods (explicit)
+image_picker in Pods (explicit)
+nanopb in Pods (explicit)
